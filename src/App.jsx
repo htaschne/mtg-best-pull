@@ -45,7 +45,15 @@ export default function App() {
 
   return (
     <div style={{ maxWidth: 800, margin: "2rem auto", padding: "1rem" }}>
-      <h1>MTG Arena Deck → Booster Analyzer</h1>
+      <img
+        src="/icon.png"
+        alt="MTG Best Pull Icon"
+        width={120}
+        height={120}
+        style={{ display: "block", margin: "0 auto 1rem" }}
+      />
+      <h1>MTG Arena Booster Analyzer</h1>
+      <h2>Let's find out which boosters are the best to pull from to lock in your new deck!</h2>
       <p>Paste or upload your MTG Arena deck list below:</p>
 
       <textarea
