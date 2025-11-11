@@ -53,7 +53,10 @@ export default function App() {
         onChange={(e) => setDeckText(e.target.value)}
         rows={10}
         style={{ width: "100%", marginBottom: "1rem" }}
-        placeholder="Example:\n4 Llanowar Elves\n2 Shivan Dragon\n..."
+        placeholder={`Example:
+4 Llanowar Elves
+2 Shivan Dragon
+...`}
       />
 
       <div style={{ marginBottom: "1rem" }}>
