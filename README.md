@@ -1,5 +1,10 @@
 # MTG Best Pull
 
+<p align="center">
+  <img src="./public/icon.png" alt="MTG Best Pull icon" width="160" />
+</p>
+
+
 MTG Best Pull is a tiny single-page web app that helps you decide which **Magic: The Gathering Arena** booster packs to open to chase the cards you care about.
 
 Paste in a list of cards (decklist, wishlist, or random pile of cardboard), and the app will:
