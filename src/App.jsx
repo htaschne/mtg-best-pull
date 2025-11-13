@@ -46,7 +46,7 @@ export default function App() {
   return (
     <div style={{ maxWidth: 800, margin: "2rem auto", padding: "1rem" }}>
       <img
-        src="/icon.png"
+        src="./icon.png"
         alt="MTG Best Pull Icon"
         width={120}
         height={120}
